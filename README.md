@@ -857,7 +857,8 @@ CPU: 150.59 ms
 Speedup: 6.2x
 Correct: False
 ```
-(imagenes)
+![Imagen_radom_filtro](Imagenes/pruebas.png)
+
 ### Conclusión
 
 El procesamiento de imágenes en GPU acelera significativamente la detección de bordes Sobel, logrando más de 6× de mejora respecto a CPU.
